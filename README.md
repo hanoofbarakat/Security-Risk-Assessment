@@ -2,38 +2,40 @@
 
 ## Overview
 
-This project demonstrates a cybersecurity risk assessment process by identifying security threats, evaluating risks, and proposing mitigation strategies using a structured risk matrix.
+This project focuses on assessing cybersecurity risks within a wireless network environment by identifying threats, analyzing vulnerabilities, evaluating risk levels, and recommending appropriate security controls using a structured risk matrix.
 
 ---
 
 ## Objectives
 
+- Identify network assets
 - Identify cybersecurity threats
-- Assess vulnerabilities
+- Analyze vulnerabilities
 - Evaluate risk likelihood and impact
-- Prioritize security risks
-- Recommend mitigation controls
+- Prioritize risks using a Risk Matrix
+- Recommend mitigation strategies
 
 ---
 
 ## Methodology
 
 - Asset Identification
-- Threat Analysis
-- Vulnerability Assessment
+- Threat Identification
+- Vulnerability Analysis
+- Risk Assessment
 - Risk Matrix Evaluation
-- Risk Treatment Planning
+- Mitigation Planning
 
 ---
 
 ## Skills Demonstrated
 
-- Risk Assessment
+- Cybersecurity Risk Assessment
 - Risk Analysis
-- Cybersecurity
-- Security Planning
+- Threat Modeling
 - Risk Matrix
 - Security Controls
+- Network Security
 
 ---
 
@@ -41,14 +43,14 @@ This project demonstrates a cybersecurity risk assessment process by identifying
 
 - Project Documentation
 - Risk Matrix
-- Supporting Diagrams
-- Screenshots
+- Risk Analysis
+- Security Recommendations
 
 ---
 
 ## Note
 
-This repository contains academic documentation only. No confidential or organizational data is included.
+The network topology used in this assessment is based on the wireless network project developed previously. This repository focuses on cybersecurity risk assessment and mitigation planning rather than network implementation.
 
 ---
 
